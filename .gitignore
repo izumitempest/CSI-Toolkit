@@ -6,4 +6,4 @@
 data
 src/data
 models
-*.egg-info
+*.egg-infobuild/
